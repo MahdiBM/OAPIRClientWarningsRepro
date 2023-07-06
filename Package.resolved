@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-openapi-runtime",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-openapi-runtime",
+      "state" : {
+        "branch" : "main",
+        "revision" : "12e46685dd23866b7c3eaf7c3dc71ebfb74cde04"
+      }
+    }
+  ],
+  "version" : 2
+}
